@@ -1,4 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0m/home/chisel/empty-chisel/src/test/scala/FulladderTest.scala:21:81: value U is not a member of chisel3.UInt[0m
-[0m[[0m[31merror[0m] [0m[0m                    dut.io.cout.expect(((dut.io.a) ^ (dut.io.b) ^ (dut.io.cin)).U)[0m
-[0m[[0m[31merror[0m] [0m[0m                                                                                ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/chisel/empty-chisel/src/test/scala/FulladderTest.scala:25:22: ')' expected but string literal found.[0m
+[0m[[0m[31merror[0m] [0m[0m                     "," + " sum=" + dut.io.sum.peekInt())[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/chisel/empty-chisel/src/test/scala/FulladderTest.scala:25:58: ';' expected but ')' found.[0m
+[0m[[0m[31merror[0m] [0m[0m                     "," + " sum=" + dut.io.sum.peekInt())[0m
+[0m[[0m[31merror[0m] [0m[0m                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
