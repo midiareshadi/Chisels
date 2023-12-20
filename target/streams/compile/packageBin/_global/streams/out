@@ -1,23 +1,13 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/chisel/empty-chisel/target/scala-2.12/empty-chisel_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/chisel/Chisels/target/scala-2.12/chisels_2.12-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FullAdder$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/chisel/empty-chisel/target/scala-2.12/classes/FullAdder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chisel/Chisels/target/scala-2.12/classes/FullAdder$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FullAdder.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/chisel/empty-chisel/target/scala-2.12/classes/FullAdder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chisel/Chisels/target/scala-2.12/classes/FullAdder.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FullAdder$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/chisel/empty-chisel/target/scala-2.12/classes/FullAdder$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	AddMain$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/chisel/empty-chisel/target/scala-2.12/classes/AddMain$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Add.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/chisel/empty-chisel/target/scala-2.12/classes/Add.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chisel/Chisels/target/scala-2.12/classes/FullAdder$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FullAdderModule.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/chisel/empty-chisel/target/scala-2.12/classes/FullAdderModule.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	AddMain$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/chisel/empty-chisel/target/scala-2.12/classes/AddMain$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	AddMain.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/chisel/empty-chisel/target/scala-2.12/classes/AddMain.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Add$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/chisel/empty-chisel/target/scala-2.12/classes/Add$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chisel/Chisels/target/scala-2.12/classes/FullAdderModule.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FullAdderModule$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/chisel/empty-chisel/target/scala-2.12/classes/FullAdderModule$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chisel/Chisels/target/scala-2.12/classes/FullAdderModule$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

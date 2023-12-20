@@ -10,7 +10,6 @@ class FullAdderTests extends AnyFlatSpec with ChiselScalatestTester {
 "FullAdder" should "work" in {
     test(new FullAdderModule).withAnnotations(Seq(WriteVcdAnnotation)) {
      dut =>
-    //  val myBool = io.mySignal.peekBoolean()
         for (a <- 0 until 2) {
             for (b <- 0 until 2) {
                 for (cin <- 0 until 2) {
