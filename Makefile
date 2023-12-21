@@ -1,10 +1,21 @@
-# Run command
-run:
-	sbt run
+# Run commands:
+# D flip flop run
+dff.run:
+	sbt "runMain DFlipFlop"
+	
+# Full Adder run
+fa.run:
+	sbt "runMain FullAdder"	
 
-# Test command
-test:
-	sbt test
+#--------------------------
+# Test commands:
+# D flip flop test
+dff.test:
+	sbt "testOnly D_FlipFlopTests"
+	
+# Full Adder run
+fa.test:
+	sbt "testOnly FullAdderTests"
 
 clean:
 	git clean -fd
