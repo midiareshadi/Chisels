@@ -1,7 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/chisel/empty-chisel/src/test/scala/FulladderTest.scala:25:22: ')' expected but string literal found.[0m
-[0m[[0m[31merror[0m] [0m[0m                     "," + " sum=" + dut.io.sum.peekInt())[0m
-[0m[[0m[31merror[0m] [0m[0m                     ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/chisel/empty-chisel/src/test/scala/FulladderTest.scala:25:58: ';' expected but ')' found.[0m
-[0m[[0m[31merror[0m] [0m[0m                     "," + " sum=" + dut.io.sum.peekInt())[0m
-[0m[[0m[31merror[0m] [0m[0m                                                         ^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/chisel/Chisels/src/test/scala/D_FlipFlopTester.scala:10:14: value testBench is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m"D_FlipFlop" testBench "Dir" in {[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
