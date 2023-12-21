@@ -17,6 +17,7 @@ dff.test:
 fa.test:
 	sbt "testOnly FullAdderTests"
 
+# make clean
 clean:
 	git clean -fd
 
