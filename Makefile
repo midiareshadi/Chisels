@@ -8,6 +8,7 @@ fa.run:
 	sbt "runMain FullAdder"	
 
 #--------------------------
+
 # Test commands:
 # D flip flop test
 dff.test:
@@ -16,6 +17,8 @@ dff.test:
 # Full Adder run
 fa.test:
 	sbt "testOnly FullAdderTests"
+
+#--------------------------
 
 # make clean
 clean:
