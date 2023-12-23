@@ -12,7 +12,7 @@ class D_FlipFlopTests extends AnyFlatSpec with ChiselScalatestTester {
      dut =>
         for (d <- 0 until 2) {
             dut.io.d.poke(d.B)
-            dut.clock.step()
+            dut.clock.step(1)
             println("d=" + dut.io.d.peekInt() + "," + " q=" 
             + dut.io.q.peekInt())
         }

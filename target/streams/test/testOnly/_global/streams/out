@@ -1,11 +1,11 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(FullAdderTests, org.scalatest.tools.Framework$$anon$1@18e298bb, false, [SuiteSelector])[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mFullAdderTests:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mFullAdder[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should work[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 second, 517 milliseconds.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(D_FlipFlopTests, org.scalatest.tools.Framework$$anon$1@1816d59a, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mD_FlipFlopTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mD_FlipFlop[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Works[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 second, 564 milliseconds.[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	FullAdderTests[0m
+[0m[[0m[0mdebug[0m] [0m[0m	D_FlipFlopTests[0m
