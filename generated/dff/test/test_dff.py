@@ -55,7 +55,7 @@ def dff_test_runner():
 
     verilog_sources = []
     
-    verilog_sources = [proj_path / "dff.sv"]
+    verilog_sources = [proj_path / "dff.v"]
 
     runner = get_runner(sim)
     runner.build(

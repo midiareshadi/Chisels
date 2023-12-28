@@ -1,0 +1,28 @@
+[
+  {
+    "class":"firrtl.EmitCircuitAnnotation",
+    "emitter":"firrtl.VerilogEmitter"
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxTargetDirAnno",
+    "targetDir":"generated"
+  },
+  {
+    "class":"firrtl.transforms.CombinationalPath",
+    "sink":"~FullAdderModule|FullAdderModule>io_cout",
+    "sources":[
+      "~FullAdderModule|FullAdderModule>io_a",
+      "~FullAdderModule|FullAdderModule>io_cin",
+      "~FullAdderModule|FullAdderModule>io_b"
+    ]
+  },
+  {
+    "class":"firrtl.transforms.CombinationalPath",
+    "sink":"~FullAdderModule|FullAdderModule>io_sum",
+    "sources":[
+      "~FullAdderModule|FullAdderModule>io_cin",
+      "~FullAdderModule|FullAdderModule>io_a",
+      "~FullAdderModule|FullAdderModule>io_b"
+    ]
+  }
+]
