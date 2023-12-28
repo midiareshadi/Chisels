@@ -2,6 +2,9 @@
 
 TOPLEVEL_LANG ?= verilog
 
+# PWD=$(shell pwd)
+
+# export PYTHONPATH := $(PWD)/../model:$(PYTHONPATH)
 
 VERILOG_SOURCES = $(shell pwd) ../hdl/dff.v
 
