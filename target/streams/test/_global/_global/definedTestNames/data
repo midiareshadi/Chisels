@@ -1,1 +1,1 @@
-["FullAdderTests","D_FlipFlopTests","Adder4BitsTests"]
+["Adder4BitsTests","FullAdderTests","AddernModuleTests","D_FlipFlopTests"]

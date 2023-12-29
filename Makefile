@@ -9,7 +9,11 @@ fa.run:
 
 # 4 bit adder
 adder4.run:
-	sbt "runMain Adder4Bits"	
+	sbt "runMain Adder4Bits"
+	
+# n bit adder
+addern.run:
+	sbt "runMain AdderNBits"		
 
 #--------------------------
 
@@ -25,6 +29,10 @@ fa.test:
 # 4 bits Adder run
 adder4.test:
 	sbt "testOnly Adder4BitsTests"
+
+# 4 bits Adder run
+addern.test:
+	sbt "testOnly AddernModuleTests"	
 
 #--------------------------
 
