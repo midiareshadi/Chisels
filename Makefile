@@ -13,7 +13,7 @@ adder4.run:
 	
 # n bit adder
 addern.run:
-	sbt "runMain AdderNBits"		
+	sbt "runMain Adder3Bits"		
 
 #--------------------------
 
@@ -37,6 +37,6 @@ addern.test:
 #--------------------------
 
 # make clean
-clean:
-	git clean -fd
+# clean:
+# 	git clean -fd
 
