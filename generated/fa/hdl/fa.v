@@ -1,5 +1,5 @@
-module FullAdderModule(
-  input   clock,
+module fa(
+  input   clk,
   input   reset,
   input   io_a,
   input   io_b,

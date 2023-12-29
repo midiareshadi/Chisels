@@ -13,7 +13,7 @@ async def reset_dut(reset_n, duration_ns):
     reset_n.value = 1
     await Timer(duration_ns, units="ns")
     reset_n.value = 0
-    reset_n._log.debug("Reset complete")
+    reset_n._log.debug("*** Reset complete ***")
 
 @cocotb.test()
 async def dff_tester_function(dut):

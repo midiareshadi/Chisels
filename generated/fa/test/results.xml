@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1703856050" />
+    <testcase name="fa_tester_function" classname="test_fa" file="/home/chisel/Chisels/generated/fa/test/test_fa.py" lineno="18" time="0.0020911693572998047" sim_time_ns="175.001" ratio_time="83685.71363630144" />
+  </testsuite>
+</testsuites>

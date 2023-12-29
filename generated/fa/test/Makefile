@@ -3,9 +3,9 @@
 TOPLEVEL_LANG ?= verilog
 
 
-VERILOG_SOURCES = $(shell pwd) ../dff.v
+VERILOG_SOURCES = $(shell pwd) ../hdl/fa.v
 
-MODULE = test_dff
-TOPLEVEL = dff
+MODULE = test_fa
+TOPLEVEL = fa
 
 include $(shell cocotb-config --makefiles)/Makefile.sim
