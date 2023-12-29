@@ -1,6 +1,0 @@
-<testsuites name="results">
-  <testsuite name="all" package="all">
-    <property name="random_seed" value="1703852948" />
-    <testcase name="dff_tester_function" classname="test_dff" file="/home/chisel/Chisels/generated/dff/test/test_dff.py" lineno="18" time="0.0015015602111816406" sim_time_ns="115.001" ratio_time="76587.67137249922" />
-  </testsuite>
-</testsuites>
