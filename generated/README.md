@@ -1,0 +1,6 @@
+### Verilog and cocoTB testbench
+There are two project folder named [dff](https://github.com/midiareshadi/Chisels/tree/main/generated/dff) and [fa](https://github.com/midiareshadi/Chisels/tree/main/generated/fa) consisting of the verilog code in `hdl` and `test` folders. `hdl` folder includes verilog file and `test` include cocoTB based test bench. To run test bench use:
+
+```make```
+
+command. 
