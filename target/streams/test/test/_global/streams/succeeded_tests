@@ -1,5 +1,6 @@
 #Successful Tests
-#Sat Dec 23 17:15:42 GMT 2023
+#Fri Dec 29 19:46:45 GMT 2023
 AddTester=1703083780771
 D_FlipFlopTests=1703260420210
 FullAdderTests=1703351742449
+Adder4BitsTests=1703879205325

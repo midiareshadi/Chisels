@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/home/chisel/Chisels/src/main/scala/Adder4.scala:15:27: not found: type FullAdder[0m
+[0m[[0m[31merror[0m] [0m[0m  val Adder0 = Module(new FullAdder())[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/chisel/Chisels/src/main/scala/Adder4.scala:21:27: not found: type FullAdder[0m
+[0m[[0m[31merror[0m] [0m[0m  val Adder1 = Module(new FullAdder())[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/chisel/Chisels/src/main/scala/Adder4.scala:27:27: not found: type FullAdder[0m
+[0m[[0m[31merror[0m] [0m[0m  val Adder2 = Module(new FullAdder())[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/chisel/Chisels/src/main/scala/Adder4.scala:33:27: not found: type FullAdder[0m
+[0m[[0m[31merror[0m] [0m[0m  val Adder3 = Module(new FullAdder())[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

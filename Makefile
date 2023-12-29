@@ -7,6 +7,10 @@ dff.run:
 fa.run:
 	sbt "runMain FullAdder"	
 
+# 4 bit adder
+adder4.run:
+	sbt "runMain Adder4Bits"	
+
 #--------------------------
 
 # Test commands:
@@ -17,6 +21,10 @@ dff.test:
 # Full Adder run
 fa.test:
 	sbt "testOnly FullAdderTests"
+
+# 4 bits Adder run
+adder4.test:
+	sbt "testOnly Adder4BitsTests"
 
 #--------------------------
 
