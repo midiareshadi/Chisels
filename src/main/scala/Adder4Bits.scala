@@ -2,6 +2,8 @@
 
 import chisel3._
 import chisel3.util._
+import chisel3.iotesters.{ChiselFlatSpec, Driver, PeekPokeTester}
+
 
 class Adder4Module extends Module {
   val io = IO(new Bundle {
@@ -42,3 +44,5 @@ object Adder4Bits extends App {
   println("Generating the 4 bits Adder logic")
   (new chisel3.stage.ChiselStage).emitVerilog(new Adder4Module(), Array("--target-dir", "generated"))
 }
+
+// visualize(() => new Adder4Module())

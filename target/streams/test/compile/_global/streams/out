@@ -1,5 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/home/chisel/Chisels/src/test/scala/nBitsAdderTester.scala:10:10: not enough arguments for constructor AddernModule: (n: Int)AddernModule.[0m
-[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter n.[0m
-[0m[[0m[31merror[0m] [0m[0m    test(new AddernModule).withAnnotations(Seq(WriteVcdAnnotation)) {[0m
-[0m[[0m[31merror[0m] [0m[0m         ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m

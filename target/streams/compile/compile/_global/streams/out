@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/chisel/Chisels/src/main/scala/nBitsAdder.scala:14:40: not found: type FullAdder[0m
-[0m[[0m[31merror[0m] [0m[0m  val FAs   = Array.fill(n)(Module(new FullAdder()).io)[0m
-[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/chisel/Chisels/src/main/scala/FIR.scala:20:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mvisualize(() => new MovingAverage3(8))[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
